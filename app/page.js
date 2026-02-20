@@ -88,7 +88,7 @@ export default function Home() {
         <AboutSection />
         <ProjectShowcase />
         <LensSection />
-        <ReadyToStart />
+        {/* <ReadyToStart /> */}
       </div>
       
       {/* Bottom Fixed Navbar */}
